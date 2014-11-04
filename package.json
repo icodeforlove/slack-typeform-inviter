@@ -1,0 +1,17 @@
+{
+  "name": "slack-typeform-inviter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chad Scira",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.3.10",
+    "cubby": "0.0.3",
+    "promise-object": "^0.1.4",
+    "request": "^2.47.0"
+  }
+}
