@@ -34,4 +34,4 @@ You will need node [0.11.2](http://blog.nodejs.org/2014/09/24/node-v0-11-14-unst
 More installation instructions on installing nvm can be found [here](https://www.npmjs.com/package/nvm).
 
 To run the module, you will need to call the --harmony flag.
-- `node --harmony index.js
+- `node --harmony index.js`
