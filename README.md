@@ -26,7 +26,7 @@ inviter.inviteAll().then(function () {
 
 # Setup
 
-You will need node [0.11.2](http://blog.nodejs.org/2014/09/24/node-v0-11-14-unstable/) to run. 
+You will need node >= [0.11.2](http://blog.nodejs.org/2014/09/24/node-v0-11-14-unstable/) to run. 
 -  `npm install -g nvm`
 -  `nvm install v0.11.14`
 -  `npn install slack-typeform-inviter --save`
